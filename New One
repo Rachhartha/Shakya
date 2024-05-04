@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rachhartha Shakya</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Comic sans, sans-serif;
+            margin: 1;
+            padding: 2;
+        }
+        header {
+            background-color: #00ff000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        /* Add more styles as needed */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rachhartha Shakya</h1>
+    </header>
+    <div class="container">
+        <h2>About</h2>
+        <p>Photographer/Graphic Designer.</p>
+        
+        <h2>Installation</h2>
+        <p>Provide instructions on how to install or use your project.</p>
+        
+        <h2>Usage</h2>
+        <p>Contact for Photoshoot.</p>
+        
+        <h2>Contributing</h2>
+        <p>Drop some ideas for tutorials.</p>
+        
+        <h2>License</h2>
+        <p>Specify the license under which your project is distributed.</p>
+    </div>
+</body>
+</html>
